@@ -99,7 +99,7 @@ Clever AI was developed independently with a focus on clarity, accessibility, an
 ## 📬 Contact
 
 - 🌐 Website: https://cleverai.wixsite.com/clever
-- 💻 GitHub: https://github.com/mrayannn18
+- 💻 GitHub: https://github.com/carbonthecoder
 - ✉️ Email: cleverai001@gmail.com
 
 ---
