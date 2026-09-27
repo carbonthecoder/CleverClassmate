@@ -1,4 +1,3 @@
-#TS not working properly but my first website made without coding with an builder
 # 🤖 Clever AI
 
 🔗 **Live Site:** https://cleverai.wixsite.com/clever
